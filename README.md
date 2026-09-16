@@ -1,4 +1,6 @@
 # block-blast-solver
+Some context: I am a student who is interested in RL and enjoys playing Block Blast so I made this as a side quest. Contributions/ideas are welcome :)
+
 An AI that plays Block Blast (an 8x8 block-puzzle mobile game) using exhaustive lookahead search and a learned value network, trained with reinforcement learning.
 
 Video showing part of a game using block blast solver (solver is on another device - this video was edited to show the moves only)
